@@ -1,0 +1,362 @@
+[
+  {
+    "id": "478f2d8b-d2b3-48c8-962a-55534d31fdb5",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fish burger",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "hamburger",
+        "alias": "burgers1",
+        "meta": "@burgers",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "02c9d7c0-25e3-4d7c-9d4a-c6437d634ce1",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hamburgers",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " cheesburgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "15874cc0-668b-4285-a9d1-2690df90d683",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "fish burger",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken burgers",
+        "alias": "burgers1",
+        "meta": "@burgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "378670a0-fcf4-407d-b8f8-fad37fe92287",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fish burger",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburgers",
+        "alias": "burgers1",
+        "meta": "@burgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "4d681a83-a336-4163-b36d-7e4561a6a22b",
+    "data": [
+      {
+        "text": "8",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken burgers",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "81c3beee-41be-4283-bcd4-b9e63a1a44a9",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hamburger",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "3ec22b0d-3f7c-459e-bd3d-06e189130d6a",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fish burgers",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "a087afcf-0322-4865-a4a8-64f8bb01ac8c",
+    "data": [
+      {
+        "text": "4",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburgers",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "b2bcd7f1-1456-4bb4-890f-e0c97c18245e",
+    "data": [
+      {
+        "text": "Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "burgers",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "16cb6dd8-4e35-4f65-a641-4e652cf17432",
+    "data": [
+      {
+        "text": "I would like ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "quantity",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "burgers",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "3bcb0f28-bcb7-46ae-9d93-5a1dafbb1aca",
+    "data": [
+      {
+        "text": "Burger",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  },
+  {
+    "id": "1eeb5c58-3204-4fd2-bd94-39578ee964fe",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "burgers",
+        "meta": "@burgers",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529822254
+  }
+]

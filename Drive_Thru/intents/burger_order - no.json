@@ -1,0 +1,36 @@
+{
+  "id": "a3aee1c1-a989-4653-9aea-02a3a11c77b3",
+  "parentId": "01037ec7-5bcc-464f-aeb8-6f13cdaa390c",
+  "rootParentId": "01037ec7-5bcc-464f-aeb8-6f13cdaa390c",
+  "name": "burger_order - no",
+  "auto": true,
+  "contexts": [
+    "burger_order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger_order.burger_order-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Okay would you like a drink with your order?",
+            "Alright, do you want a drink?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529851955,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "hamburger",
+    "synonyms": [
+      "hamburger",
+      "hamburgers"
+    ]
+  },
+  {
+    "value": "cheeseburger",
+    "synonyms": [
+      "cheeseburger",
+      "cheeseburgers"
+    ]
+  },
+  {
+    "value": "fish burger",
+    "synonyms": [
+      "fish burger",
+      "fish burgers"
+    ]
+  },
+  {
+    "value": "chicken burger",
+    "synonyms": [
+      "chicken burger",
+      "chicken burgers"
+    ]
+  },
+  {
+    "value": "Burger",
+    "synonyms": [
+      "Burger"
+    ]
+  },
+  {
+    "value": "burgers",
+    "synonyms": [
+      "burgers"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "69d55e74-7efc-453d-a4ec-d5629cfc9533",
+  "parentId": "8f55b766-99bd-4e16-8f63-0224c21c8292",
+  "rootParentId": "01037ec7-5bcc-464f-aeb8-6f13cdaa390c",
+  "name": "fries_size-custom",
+  "auto": true,
+  "contexts": [
+    "fries_order-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger_order.burger_order-yes.fries_order-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "fries_size-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8c63c68a-3da1-4b45-9a8a-abc4e8fb8586",
+          "dataType": "@sizes",
+          "name": "sizes",
+          "value": "$sizes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, so that\u0027s a $sizes fries. Would you like a drink?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529851888,
+  "fallbackIntent": false,
+  "events": []
+}

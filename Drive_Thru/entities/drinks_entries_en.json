@@ -1,0 +1,40 @@
+[
+  {
+    "value": "soda",
+    "synonyms": [
+      "pop",
+      "coke",
+      "cold drink"
+    ]
+  },
+  {
+    "value": "juice",
+    "synonyms": [
+      "juice"
+    ]
+  },
+  {
+    "value": "apple juice",
+    "synonyms": [
+      "apple juice"
+    ]
+  },
+  {
+    "value": "orange juice",
+    "synonyms": [
+      "orange juice"
+    ]
+  },
+  {
+    "value": "coffee",
+    "synonyms": [
+      "coffee"
+    ]
+  },
+  {
+    "value": "tea",
+    "synonyms": [
+      "tea"
+    ]
+  }
+]

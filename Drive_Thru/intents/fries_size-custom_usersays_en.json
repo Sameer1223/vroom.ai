@@ -1,0 +1,168 @@
+[
+  {
+    "id": "2a5ba7a8-b35d-40cb-9877-065827be7b8f",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "9a60268f-6e44-4c18-9e46-49de8fd6ca57",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "dfdd675d-ee9f-47c8-8e84-fa9e4fd31ba1",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "67253ff5-0ec4-44b0-9669-7b13473c4774",
+    "data": [
+      {
+        "text": "Large",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "194f410f-0ca3-4cb0-b95c-8483f70e394e",
+    "data": [
+      {
+        "text": "Small",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      },
+      {
+        "text": " is nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529851888
+  },
+  {
+    "id": "64392acd-3979-4311-a5cb-2d56a76cc70e",
+    "data": [
+      {
+        "text": "Medium",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      },
+      {
+        "text": " would be good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "40be220c-f759-4486-86aa-d77484e857f3",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "0e131c20-7094-48fe-bce0-5e4a591a0413",
+    "data": [
+      {
+        "text": "Medium",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  },
+  {
+    "id": "72589b14-920f-4cd1-a509-2a12e44ae303",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "sizes",
+        "meta": "@sizes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529851888
+  }
+]

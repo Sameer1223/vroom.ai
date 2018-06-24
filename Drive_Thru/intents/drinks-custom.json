@@ -1,0 +1,33 @@
+{
+  "id": "6c8b53ba-ae99-484e-b9f0-c4ed43d98c38",
+  "parentId": "69d55e74-7efc-453d-a4ec-d5629cfc9533",
+  "rootParentId": "01037ec7-5bcc-464f-aeb8-6f13cdaa390c",
+  "name": "drinks-custom",
+  "auto": true,
+  "contexts": [
+    "fries_size-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger_order.burger_order-yes.fries_order-yes-custom.fries_size-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027ve added a drink to your order. Please pull up to the window!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529852759,
+  "fallbackIntent": false,
+  "events": []
+}

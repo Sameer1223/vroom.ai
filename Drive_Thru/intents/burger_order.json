@@ -1,0 +1,67 @@
+{
+  "id": "01037ec7-5bcc-464f-aeb8-6f13cdaa390c",
+  "name": "burger_order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "burger_order-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "260fb644-7a80-4a13-85dd-cd2ff3560d3b",
+          "dataType": "@burgers",
+          "name": "burgers",
+          "value": "$burgers",
+          "isList": false
+        },
+        {
+          "id": "69c01710-6cc2-4ea2-97c1-735821557cae",
+          "dataType": "@sys.number-integer",
+          "name": "quantity",
+          "value": "$quantity",
+          "isList": true
+        },
+        {
+          "id": "108c578f-f284-4496-8a8f-5539ea9bbc3d",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": true
+        },
+        {
+          "id": "d83fc9a5-028a-4765-8643-ee90578e51ce",
+          "dataType": "@burgers",
+          "name": "burgers1",
+          "value": "$burgers1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Alright! I\u0027ve got $quantity $burgers, would you like fries with that?",
+            "Okay, you\u0027d like $quantity $burgers, do you want fries with that as well?",
+            "That will be $number $burgers and $quantity $burgers1, would you like to add on fries?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529822254,
+  "fallbackIntent": false,
+  "events": []
+}
